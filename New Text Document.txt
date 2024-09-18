@@ -1,0 +1,4 @@
+1. type of case - road accident, crime , domestic violence/ marriage
+2. severity of the case - death, medical issue, phycological trauma
+3. judgements - death, fine, imprisonment years
+4. 

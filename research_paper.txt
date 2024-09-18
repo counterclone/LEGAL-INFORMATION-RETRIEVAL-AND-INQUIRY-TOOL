@@ -1,0 +1,16 @@
+abstract :- what the project is about, helpful in law domain
+
+introduction:- diff api  the models, expand on the abstract
+
+literature review:- 15
+
+comparative study between models
+
+the project:- web scraper, question bot, the libraries used, how theses things integrate and work. 
+
+comparative outcome of the two models
+
+importance in law domain.
+
+Outcome:- what we learned , the future scope. How can we expand on this project
+
