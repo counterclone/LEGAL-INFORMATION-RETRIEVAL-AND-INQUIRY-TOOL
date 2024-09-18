@@ -1,0 +1,1 @@
+a project to scrape legal data from Advocate Khoji and Indian Kanoon.Integrated a chatbot in a Streamlit interface with Gemini API keys to enhance userexperience. This improved accessibility forlegal professionals and students by enabling efficient data querying through a user-friendly interface.
