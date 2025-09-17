@@ -1,0 +1,25 @@
+# Core web scraping and data processing
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+requests>=2.31.0
+
+# Web interface
+streamlit>=1.28.0
+
+# Document processing
+python-docx>=0.8.11
+openpyxl>=3.1.0
+
+# AI and Machine Learning
+torch>=2.0.0
+transformers>=4.30.0
+google-generativeai>=0.3.0
+openai>=1.0.0
+
+# Jupyter notebook support (for some components)
+ipython>=8.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+fire>=0.5.0
